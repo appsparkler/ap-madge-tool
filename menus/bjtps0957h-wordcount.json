@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "label": "Toggle bjtps0957h-wordcount",
+        "command": "bjtps0957h-wordcount:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bjtps0957h-wordcount",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "bjtps0957h-wordcount:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

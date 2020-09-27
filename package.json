@@ -1,0 +1,25 @@
+{
+  "name": "bjtps0957h-wordcount",
+  "main": "./lib/bjtps0957h-wordcount",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "xactivationCommands": {
+    "atom-workspace": "bjtps0957h-wordcount:toggle"
+  },
+  "activationCommands": {
+    "atom-workspace": "bjtps0957h-wordcount:toggle",
+    "tree-view-file.selected": "bjtps0957h-wordcount:toggle"
+  },
+  "activationHooks": [
+    "source.js:root-scope-used"
+  ],
+  "repository": "https://github.com/atom/bjtps0957h-wordcount",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "madge": "^3.10.0"
+  }
+}
