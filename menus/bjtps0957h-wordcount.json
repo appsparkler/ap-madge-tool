@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-workspace": [
       {
-        "label": "Toggle bjtps0957h-wordcount",
+        "label": "Toggle Madge Graph",
         "command": "bjtps0957h-wordcount:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "bjtps0957h-wordcount",
+          "label": "Toggle Madge Graph",
           "submenu": [
             {
               "label": "Toggle",
