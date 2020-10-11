@@ -20,9 +20,9 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "madge": "^3.10.0"
-  },
-  "devDependencies": {
+    "madge": "^3.10.0",
+    "prop-types": "^15.7.2",
+    "styled-components": "^5.2.0"
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
